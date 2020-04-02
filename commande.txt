@@ -1,0 +1,1 @@
+xsltproc countries.xsl countries.xml > countries.html
